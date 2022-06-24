@@ -8,3 +8,4 @@ Script that gives permission to execute to owner, group and other users
 Script that gives all permission to othe users and no permission on owner and group 
 Script that gives mode to hello 
 Script that gives persmission to all subs to execute
+Script that creates directory with permission
