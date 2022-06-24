@@ -6,3 +6,4 @@ Script that adds execute permiion to the owner of the file
 Script that gives permission to execute to owner and group while gives read to other users 
 Script that gives permission to execute to owner, group and other users 
 Script that gives all permission to othe users and no permission on owner and group 
+Script that gives mode to hello 
