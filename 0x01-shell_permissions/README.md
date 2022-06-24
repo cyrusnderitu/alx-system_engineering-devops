@@ -9,3 +9,4 @@ Script that gives all permission to othe users and no permission on owner and gr
 Script that gives mode to hello 
 Script that gives persmission to all subs to execute
 Script that creates directory with permission
+Script that changes a group ownership
