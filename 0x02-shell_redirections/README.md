@@ -7,3 +7,4 @@ Scriot to display firts 10 lines of /etc/passwd
 Script that displays the third lines of the files iacta
 Script that creates a file with text Best School
 Script that writes into a files the result of ls -la
+Script that dublicates last line of a file
