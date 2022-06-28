@@ -10,3 +10,4 @@ Script that writes into a files the result of ls -la
 Script that dublicates last line of a file
 Script that deletes all reguar files with .js ext in present dir and subfolders
 Script that displays the 10 newest files in the current dierctory
+Script that takes a list of words as input and prints out words that apear only once
