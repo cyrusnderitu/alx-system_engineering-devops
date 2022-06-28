@@ -19,3 +19,4 @@ Script that display lines that contain a letter including capital letters
 Script that replaces all charaters of A & Z to c & e
 Script that removes all letter c and C
 Script that reverses its input
+Script that displays all its users and their home directories
