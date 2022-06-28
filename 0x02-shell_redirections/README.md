@@ -4,3 +4,4 @@ Script for displaying content of /etc/passwd
 Script for displaying content of /etc/passwd & /etc/hosts
 Sciptto display the last 10 lines of etc/passwd
 Scriot to display firts 10 lines of /etc/passwd
+Script that displays the third lines of the files iacta
