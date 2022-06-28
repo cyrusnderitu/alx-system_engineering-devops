@@ -13,3 +13,4 @@ Script that displays the 10 newest files in the current dierctory
 Script that takes a list of words as input and prints out words that apear only once
 Script that displays lines that contain the pattern root
 Script taht displays the number of lines that contain the pattern bin
+Script that display lines containing the pattern root and 3 lines after them
