@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 tr -d 'c' 'C'
-=======
-tr -d 'c' 'C' 
->>>>>>> 1154d505f6159b604dee9ef8723e984ee4dc0fef
+
