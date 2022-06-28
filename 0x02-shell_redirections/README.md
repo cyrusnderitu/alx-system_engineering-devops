@@ -15,3 +15,4 @@ Script that displays lines that contain the pattern root
 Script taht displays the number of lines that contain the pattern bin
 Script that display lines containing the pattern root and 3 lines after them
 Script that displays all lines that do not match the pattern bin
+Script that display lines that contain a letter including capital letters
