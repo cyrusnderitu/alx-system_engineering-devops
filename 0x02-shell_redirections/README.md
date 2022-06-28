@@ -17,3 +17,4 @@ Script that display lines containing the pattern root and 3 lines after them
 Script that displays all lines that do not match the pattern bin
 Script that display lines that contain a letter including capital letters
 Script that replaces all charaters of A & Z to c & e
+Script that removes all letter c and C
