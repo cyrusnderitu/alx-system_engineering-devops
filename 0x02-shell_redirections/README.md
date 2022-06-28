@@ -14,3 +14,4 @@ Script that takes a list of words as input and prints out words that apear only 
 Script that displays lines that contain the pattern root
 Script taht displays the number of lines that contain the pattern bin
 Script that display lines containing the pattern root and 3 lines after them
+Script that displays all lines that do not match the pattern bin
