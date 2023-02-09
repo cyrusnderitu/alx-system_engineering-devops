@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+str=$1
+if[$str -ne true]
+then 
+	echo "Nomessage has been provided"
+	echo "Aborting pushing to repo ......."
+	echo "--------DENIED----------"
+else
+	echo "Staging filess submitted ..."
+	git add .
+	echo "**--Logging changes made--**"
+	git commit -m $1
+	echo "Connecting to remote origin ...."
+	git push
+	echo "----FINILAZING =) -----"
+fi
